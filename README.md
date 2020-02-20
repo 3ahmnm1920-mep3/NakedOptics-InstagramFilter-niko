@@ -3,6 +3,9 @@
 # Project Description
 # Visuals
 # Concept
+Schibrille 
+Schneeflocken im Vordergrund
+Im Hintergrund ein Berpanorama
 ## Idea
 ## References
 https://www.youtube.com/watch?v=_B0G1jIaxMA
