@@ -3,9 +3,7 @@
 # Project Description
 # Visuals
 # Concept
-Schibrille 
-Schneeflocken im Vordergrund
-Im Hintergrund ein Bergpanorama
+Ich möchte einen Instagramfilter machen, wo der Kopf (FaceTracker) die Ski nach links und rechts bewegen kann. Vorbild:https://www.youtube.com/watch?v=jut8vAy3sCs. Alles soll eher im gezeichneten Grafikstil gehalten sein. 
 ## Idea
 ## References
 SparkAR Beginner Tutorial: https://www.youtube.com/watch?v=_B0G1jIaxMA
