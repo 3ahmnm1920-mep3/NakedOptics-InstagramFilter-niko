@@ -3,7 +3,7 @@
 # Project Description
 # Visuals
 # Concept
-Ich möchte einen Instagramfilter machen, wo der Kopf (FaceTracker) die Ski nach links und rechts bewegen kann. Vorbild:https://www.youtube.com/watch?v=jut8vAy3sCs. Alles soll eher im gezeichneten Grafikstil gehalten sein. 
+Ich möchte einen Instagramfilter machen, wo der Kopf (FaceTracker) die Ski nach links und rechts bewegen kann. Vorbild:https://www.youtube.com/watch?v=jut8vAy3sCs. Alles soll eher im gezeichneten Grafikstil gehalten sein. Sollte ich keine passenden Grafiken finden, werde ich einen Filter machen bei welchem es schneit und im Hintergrund ein Bergpanorama zu sehen ist. 
 ## Idea
 ## References
 SparkAR Beginner Tutorial: https://www.youtube.com/watch?v=_B0G1jIaxMA
