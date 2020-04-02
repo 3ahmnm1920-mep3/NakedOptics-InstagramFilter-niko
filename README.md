@@ -13,3 +13,4 @@ How to control object by FaceTracker: https://www.youtube.com/watch?v=jut8vAy3sC
 Make Insta-Filter in 10min: https://www.youtube.com/watch?v=LDbmH8pyjjY
 Layers, Segmentation and Emitters: https://www.youtube.com/watch?v=TnWrJoPCfco
 Particelsystems: https://www.youtube.com/watch?v=idUij9qtHko
+Audio in SparkAR: https://www.youtube.com/watch?v=J1oYCnyAlng
