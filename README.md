@@ -14,3 +14,5 @@ Make Insta-Filter in 10min: https://www.youtube.com/watch?v=LDbmH8pyjjY
 Layers, Segmentation and Emitters: https://www.youtube.com/watch?v=TnWrJoPCfco
 Particelsystems: https://www.youtube.com/watch?v=idUij9qtHko
 Audio in SparkAR: https://www.youtube.com/watch?v=J1oYCnyAlng
+## Anmerkung
+Ein Teil meines Filter befindet sich leider am Schulrechner. Spezifisch das Bergpanorama im Hintergrund und der FaceTracker mit der Schibrille.
