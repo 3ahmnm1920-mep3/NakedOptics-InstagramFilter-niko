@@ -1,6 +1,7 @@
 # NakedOptics-InstagramFilter-niko
 
 # Project Description
+Der Instagram-Filter wurde im Zuge des MEP-Unterrichts für die Firma NakedOptics erstellt, um vor allem praxisnahen Unterricht zu machen.
 # Visuals
 # Concept
 Ich werde einen Filter machen, bei welchem es schneit und im Hintergrund ein Bergpanorama zu sehen ist. Außerdem werden bei verschiedenen  mimischen Gesichtsregungen bestimmte Sounds abgespielt. 
@@ -16,3 +17,5 @@ Particelsystems: https://www.youtube.com/watch?v=idUij9qtHko
 Audio in SparkAR: https://www.youtube.com/watch?v=J1oYCnyAlng
 ## Anmerkung
 Ein Teil meines Filter befindet sich leider am Schulrechner. Spezifisch das Bergpanorama im Hintergrund und der FaceTracker mit der Schibrille.
+## Software
+SparkAR v84
