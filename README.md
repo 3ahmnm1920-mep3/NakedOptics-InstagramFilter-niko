@@ -4,7 +4,7 @@
 Der Instagram-Filter wurde im Zuge des MEP-Unterrichts für die Firma NakedOptics erstellt, um vor allem praxisnahen Unterricht zu machen.
 # Visuals
 # Concept
-Ich werde einen Filter machen, bei welchem es schneit und im Hintergrund ein Bergpanorama zu sehen ist. Außerdem werden bei verschiedenen  mimischen Gesichtsregungen bestimmte Sounds abgespielt. 
+Ich werde einen Filter machen, bei welchem es schneit und im Hintergrund ein Bergpanorama zu sehen ist. Außerdem wird im Hintergrund ein "ColdBlizzardSound" abgespielt. 
 ## Idea
 ## References
 SparkAR Beginner Tutorial: https://www.youtube.com/watch?v=_B0G1jIaxMA
